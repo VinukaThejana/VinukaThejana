@@ -9,6 +9,8 @@
 
 ## Skills
 
+<br />
+
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Erica-NEXTjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
