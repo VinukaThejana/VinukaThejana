@@ -3,8 +3,11 @@
 </br>
 <div style="display: flex">
   <a href="https://github.com/VinukaThejana">
+  <br/>
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinukaThejana&layout=compact&langs_count=16&theme=dracula"/>
+   <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <br />
 </div>
 
 ## Skills
