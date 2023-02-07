@@ -8,7 +8,7 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula"/>
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinukaThejana&theme=dracula&hide_border=false"/>
 
-## Programming languages that I am intrested in
+## Languages that I work with
 
 <div style="display: inline_block"><br>
  <img height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
