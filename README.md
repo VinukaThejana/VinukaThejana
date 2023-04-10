@@ -5,7 +5,7 @@
 - Have good experince working with RDMS
 - Have a good understanding about Linux
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula"/>
+<img align="left" width="48%" src="https://github-readme-vinukathejana.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula&count_private=true"/>
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinukaThejana&theme=dracula&hide_border=false"/>
 
 ## Languages that I work with
