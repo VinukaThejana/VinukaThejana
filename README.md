@@ -51,6 +51,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+## Badges
+
+[![An image of @vinukathejana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinukathejana)](https://holopin.io/@vinukathejana)
+
 ## Contact
   
 <div>
@@ -60,6 +64,4 @@
  </br>
 </br>
 
-</div>
-
-[![An image of @vinukathejana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinukathejana)](https://holopin.io/@vinukathejana)
+</div
