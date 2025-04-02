@@ -1,76 +1,49 @@
 # Hi 👋, I am Vinuka Kodituwakku
 
-- 👀 I’m interested in Backed development
-- Very interested in developing robust backend architectures.
-- I have gained significant experience in working with diverse database systems.
-- Have a good understanding of Linux
-- Co-Founder of <a href="https://szeeta.com" target="_blank">szeeta</a>
+I’m a backend dev who builds clean, scalable systems. I design architectures that scale naturally, manage real-time data smoothly, and secure access with care.
 
-<img align="left" width="48%" src="https://github-readme-vinukathejana.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula&count_private=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-vinukathejana.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-vinukathejana.vercel.app/api/top-langs?username=VinukaThejana&layout=compact&card_width=320&theme=dracula&count_private=true&langs_count=5" />
+</a>
+
+## Skills
+
+* **System Design & Architecture** : Crafting scalable setups.
+* **Containerization** : Using Docker for consistent deploys.
+* **Scalable Deployment** : Handling growth with minimal friction.
+* **Streaming** : Handling realtime data with Kafka, Redis pub/sub or RabbitMQ.
+* **Authentication** : Implementing secure login systems.
+* **Data Modeling** : Optimizing realational databases for performance.
+* **Load Balancing** : Distributing traffic effectively.
+* **Web Backend Dev** : Building reliable CRUD backends.
+
+## Cloud Experience ☁️
+
+* **AWS** : Lambda, S3, ECS, EC2, etc ...
+* **GCP**: Storage, Cloud Run, Cloud Vision, etc ...
+* **DigitalOcean**
 
 ## Languages
 
-<div style="display: inline_block"><br>
- <img height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" align="center" src="https://rustacean.net/assets/cuddlyferris.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" src="https://www.svgrepo.com/download/354020/lua.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+`Rust` | `GoLang` | `TypeScript/JavaScript` | `Python` | `Java` | `PHP`
 
-## Databases
+## What's here
 
-<div style="display: inline_block"><br>
- <img height="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" align="center" src="https://ik.imagekit.io/capilog/logos/Neo4j-logo-color.svg?updatedAt=1698162363062" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+I tinker with code and push projects to keep sharp. Check my repos for what I’m working on, or reach out to chat tech.
 
-## Tools & Frameworks
-
-<div style="display: inline_block"><br>
- <img height="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" align="center" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-## Badges
+<br />
 
 [![An image of @vinukathejana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinukathejana)](https://holopin.io/@vinukathejana)
 
 ## Contact
   
 <div>
-  <a href="https://www.linkedin.com/in/vinuka-kodituwakku-6081621b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinukakodituwakku/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/vinukathejana" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto: vinukakodituwakku@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: vinuka.t@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
 
