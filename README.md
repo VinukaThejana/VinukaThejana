@@ -2,13 +2,6 @@
 
 I’m a backend dev who builds clean, scalable systems. I design architectures that scale naturally, manage real-time data smoothly, and secure access with care.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-vinukathejana.vercel.app/api?username=VinukaThejana&show_icons=true&theme=dracula&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-vinukathejana.vercel.app/api/top-langs?username=VinukaThejana&layout=compact&card_width=320&theme=dracula&count_private=true&langs_count=5" />
-</a>
-
 ## Skills
 
 * **System Design & Architecture** : Crafting scalable setups.
